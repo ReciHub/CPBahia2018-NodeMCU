@@ -21,3 +21,8 @@ NodeMCU CH340G (V3) :
 
 [Mac OSX](https://s3-sa-east-1.amazonaws.com/robocore-tutoriais/163/CH341SER_MAC.ZIP)
 
+### Instalação da biblioteca do Blynk
+
+Link para download : <https://github.com/blynkkk/blynk-library/releases/latest>
+
+- Arquivos devem ser extraídos para dentro da sua pasta do Arduino, " Arduino IDE: File -> Preferences "
