@@ -19,7 +19,7 @@ NodeMCU CH340G (V3) :
 
 [Windows](https://s3-sa-east-1.amazonaws.com/robocore-tutoriais/163/CH341SER_WINDOWS.zip)
 
-[Mac OSX](https://s3-sa-east-1.amazonaws.com/robocore-tutoriais/163/CH341SER_MAC.ZIP)
+[Mac OSX](https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver)
 
 ### Instalação da biblioteca do Blynk
 
